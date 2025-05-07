@@ -1,5 +1,6 @@
+//tehtävä 2.1-2.5
+/** 
 import Course from "./Course";
-
 const App = () => {
   const courses = [
     {
@@ -54,3 +55,10 @@ const App = () => {
 };
 
 export default App;
+*/
+const App = () => {
+  return <div></div>;
+};
+
+export default App;
+
